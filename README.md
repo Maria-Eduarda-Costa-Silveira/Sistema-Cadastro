@@ -52,7 +52,7 @@ O administrador pode adicionar Fornecedores ou Professores, dependendo da sua á
 
 ### Desenvolvedores  
 - Dimitri Espinola Dos Santos
-- Hector Dimitri Pereira Dos Santos
+- Héctor Dimitri Pereira Dos Santos
 - João Paulo Rodrigues Dos Santos
 - Lucas Aparecido De Assis Goncalves
 - Maria Eduarda Costa Silveira
