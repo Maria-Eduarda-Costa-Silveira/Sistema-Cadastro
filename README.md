@@ -5,8 +5,8 @@
 ### Funcionalidades:  
 
 **Usuário pessoa 👤**:  
-1. Realizar cadastro  
-2. Realizar login   
+1. Realizar Cadastro  
+2. Realizar Login   
 3. Alterar Dados  
 4. Consultar Cadastro  
 
