@@ -1,18 +1,22 @@
 # Sistema de Cadastro de Pessoas em uma Universidade
 
-### Sobre: 
+### Sobre  
+O sistema construído permitirá o cadastro, a consulta e a alteração de dados de pessoas físicas e jurídicas, alunos, professores e fornecedores de uma universidade. O sistema visa otimizar a gestão de informações da instituição, facilitando o acesso e a manipula-ção de dados relevantes para o seu funcionamento. 
 
-### Funcionalidades:  
+### Funcionalidades  
 
-**Usuário pessoa 👤**:  
-1. Realizar Cadastro  
-2. Realizar Login   
-3. Alterar Dados  
-4. Consultar Cadastro  
+Abaixo estão apresentadas as principais funcionalidades do sistema.  
 
-**Administrador 👤**:  
-1. Cadastrar Fornecedor  
-2. Cadastrar Professor (CLT e PJ)  
+- **Usuário pessoa 👤**:  
+  - Realizar Cadastro  
+  - Realizar Login   
+  - Alterar Dados  
+  - Consultar Cadastro  
+
+- **Administrador 👤**:  
+  - Cadastrar Fornecedor  
+  - Cadastrar Professor (CLT e PJ)
+  - Fazer a gestão destes cadatros (alteração de dados, exclusão de cadastros etc.)  
  
 ### 📋 **Diagrama de Classes**  
 ![image](https://github.com/Maria-Eduarda-Costa-Silveira/Sistema-Cadastro/blob/main/Imagens/Diagrama%20de%20Classes%20PI.png?raw=true)
@@ -36,21 +40,21 @@ Se o aluno for menor de idade, ele precisa, obrigatoriamente, fornecer os dados 
 
 O administrador pode adicionar Fornecedores ou Professores, dependendo da sua área de atuação. Por exemplo: para adicionar um fornecedor, o administrador deve ser da área de Compras (ou áreas relacionadas) e, para adicionar um Professor, o administrador deve ser do RH. No exemplo a seguir o administrador pode adicionar ambos.  
 
-### Cadastro Fornecedor
+### 🖥️ Cadastro Fornecedor
 
 ![image](https://github.com/Maria-Eduarda-Costa-Silveira/Sistema-Cadastro/blob/main/Imagens/Cad%20Fornecedor.jpeg?raw=true)  
 
 **OBS: Os campos de cadastro de professores mudam automaticamente de acordo com o tipo de contrato que será selecionado.**
 
-### Cadastro Professor CLT
+### 🖥️ Cadastro Professor CLT
 
 ![image](https://github.com/Maria-Eduarda-Costa-Silveira/Sistema-Cadastro/blob/main/Imagens/Cad%20Professor%20CLT.jpeg?raw=true)
 
-### Cadastro Professor PJ
+### 🖥️ Cadastro Professor PJ
 
 ![image](https://github.com/Maria-Eduarda-Costa-Silveira/Sistema-Cadastro/blob/main/Imagens/Cad%20Professor%20PJ.jpeg?raw=true)  
 
-### Desenvolvedores  
+### Desenvolvedores 👤
 - Dimitri Espinola Dos Santos
 - Héctor Dimitri Pereira Dos Santos
 - João Paulo Rodrigues Dos Santos
