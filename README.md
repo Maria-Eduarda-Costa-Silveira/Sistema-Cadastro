@@ -32,7 +32,7 @@ Abaixo estão apresentadas as principais funcionalidades do sistema.
 
  ### 🖥️ **Tela de Cadastro Aluno Menor de Idade**   
 
-Se o aluno for menor de idade, ele precisa, obrigatoriamente, fornecer os dados de um responsável legal como está representado no exemplo abaixo.   
+Se o aluno for menor de idade, ele precisa, obrigatoriamente, fornecer os dados de um responsável legal (pessoa física) como está representado no exemplo abaixo.   
 
 ![image](https://github.com/Maria-Eduarda-Costa-Silveira/Sistema-Cadastro/blob/main/Imagens/Cad%20Aluno%20(Menor).jpeg?raw=true)
 
