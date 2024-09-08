@@ -38,7 +38,7 @@ Se o aluno for menor de idade, ele precisa, obrigatoriamente, fornecer os dados 
 
  ### 🖥️ **Tela do Administrador**  
 
-O administrador pode adicionar Fornecedores ou Professores, dependendo da sua área de atuação. Por exemplo: para adicionar um fornecedor, o administrador deve ser da área de Compras (ou áreas relacionadas) e, para adicionar um Professor, o administrador deve ser do RH. No exemplo a seguir o administrador pode adicionar ambos.  
+O administrador pode adicionar Fornecedores ou Professores, dependendo da sua área de atuação. Por exemplo: para adicionar um fornecedor, o administrador deve ser da área de Compras (ou áreas relacionadas) e, para adicionar um Professor, o administrador deve ser do RH.  
 
 ### 🖥️ Cadastro Fornecedor
 
