@@ -3,6 +3,7 @@
 ### Sobre  
 O sistema construído permitirá o cadastro, a consulta e a alteração de dados de pessoas físicas e jurídicas, alunos, professores e fornecedores de uma universidade. O sistema visa otimizar a gestão de informações da instituição, facilitando o acesso e a manipula-ção de dados relevantes para o seu funcionamento. 
 
+
 ### Funcionalidades  
 
 Abaixo estão apresentadas as principais funcionalidades do sistema.  
